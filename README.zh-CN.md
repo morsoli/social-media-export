@@ -2,15 +2,29 @@
 <h1 align="center">SocialExport</h1>
 <p align="center">导出社媒数据，把公开网页保存为 Markdown。</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
-<p align="center"><a href="#download">下载</a> · <a href="GUIDE.zh-CN.md">安装指南</a> · <a href="https://socialmediaexport.liduos.com">官方网站</a></p>
+<p align="center"><a href="#download">下载</a> · <a href="guide/GUIDE.zh-CN.md">安装指南</a> · <a href="https://socialmediaexport.liduos.com">官方网站</a></p>
 
-## 插件功能
+社媒导出助手是一款免费、本地优先的浏览器扩展，适用于社媒研究和网页剪藏。可把结构化数据交给表格分析，也可把可读取的公开内容整理成 Markdown，留作笔记或资料。
 
-- 将支持平台的帖子、评论、作者信息和互动数据导出为 CSV。
-- 将公开网页和帖子保存为可编辑的 Markdown，可把可下载图片一起打包为 ZIP。
-- 将结果保存到本地，也可在配置工作区后发送到飞书 / Lark 或 Notion。
+[![社媒导出助手官网预览](assets/website-overview-zh.png)](https://socialmediaexport.liduos.com/)
 
-本地导出在浏览器内运行，无需注册社媒导出助手账号。
+## 两种导出方式
+
+### 社媒数据导出
+
+将支持平台的帖子、评论、作者信息和互动数据导出为 CSV。 将可获取的帖子、评论及互动数据交给 Excel 或其他表格工具，用于研究、统计和复盘。字段随平台和页面类型变化。
+
+### 公开网页剪藏
+
+将公开网页和帖子保存为可编辑的 Markdown，可把可下载图片一起打包为 ZIP。 Markdown 保留可读的正文、标题层级和链接，便于编辑；ZIP 还能打包可获取的图片。
+
+## 导出到哪里
+
+将 CSV 和 Markdown 下载到本地。连接飞书 / Lark 后可导出到多维表格或云文档，连接 Notion 后可导出到数据库或页面。 本地导出在浏览器内运行，无需注册社媒导出助手账号。
+
+## 平台与兼容性
+
+覆盖 YouTube、Instagram、TikTok、X、Reddit、B站、小红书等平台的适用页面。不同页面和平台的可用功能有所差异。
 
 <a id="download"></a>
 
@@ -22,3 +36,5 @@
 | Microsoft Edge | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-edge.zip) |
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 极速、夸克、360 安全、猎豹和 QQ 浏览器 | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
+
+**[打开社媒导出助手官网](https://socialmediaexport.liduos.com/)**

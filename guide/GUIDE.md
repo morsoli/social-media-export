@@ -1,4 +1,4 @@
-[SocialExport](README.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
+[SocialExport](../README.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
 
 # Installation guide
 
@@ -15,7 +15,7 @@
 2. In Firefox, open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on**, and select `manifest.json`. The unsigned package must be reloaded after Firefox restarts.
 3. Open a supported social post or a public page, then select SocialExport. Export available social data as CSV, or save a page as a Markdown file or ZIP. You can also send content to Feishu/Lark or Notion after connecting your workspace.
 
-<img src="assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
+<img src="../assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
 
 | Browser | Where to open extensions |
 | --- | --- |
@@ -30,7 +30,7 @@
 
 On these desktop Chromium browsers, unpacked installation and Manifest V3 support depend on the browser version. Versions that only accept CRX cannot load the ZIP through that entry.
 
-<img src="assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
+<img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
 [Installation guide ↗](https://socialmediaexport.liduos.com/en/guide)
 
@@ -59,4 +59,4 @@ Cloud export is an intentional browser-to-API transfer, not a prerequisite for l
 - **Export to Feishu**: Configure your own Feishu / Lark app credentials (`App ID` / `App Secret`) and optional folder or Base URL in extension settings to export social data to Feishu Base tables and web content to Feishu Docs.
 - **Export to Notion**: Configure your Notion Internal Integration Token and shared parent page or database URL in extension settings to export social data to Notion Databases and web content to structured Notion Pages.
 
-[Read the Feishu configuration guide](/en/blog/feishu-bitable-sync-guide)
+[Read the Feishu configuration guide](https://socialmediaexport.liduos.com/en/blog/feishu-bitable-sync-guide)

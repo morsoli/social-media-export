@@ -1,4 +1,4 @@
-[SocialExport](README.de.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
+[SocialExport](../README.de.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
 
 # Installationsanleitung
 
@@ -15,7 +15,7 @@
 2. Öffne in Firefox `about:debugging#/runtime/this-firefox`, wähle **Temporäres Add-on laden** und öffne `manifest.json`. Nach jedem Firefox-Neustart muss das unsignierte Paket erneut geladen werden.
 3. Öffne einen unterstützten Beitrag oder eine öffentliche Seite und wähle SocialExport. Social-Media-Daten lassen sich als CSV, Webseiten als Markdown-Datei oder ZIP speichern. Nach der Einrichtung kannst du Inhalte an Feishu/Lark oder Notion senden.
 
-<img src="assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
+<img src="../assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
 
 | Browser | Erweiterungsverwaltung |
 | --- | --- |
@@ -30,6 +30,6 @@
 
 Ob entpackte Ordner geladen werden können und Manifest V3 unterstützt wird, hängt von der Browserversion ab. Ein Menü, das nur CRX-Dateien akzeptiert, kann die ZIP-Datei nicht laden.
 
-<img src="assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
+<img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
 [Installationsanleitung ↗](https://socialmediaexport.liduos.com/en/guide)
