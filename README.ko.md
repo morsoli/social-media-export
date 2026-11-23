@@ -2,7 +2,15 @@
 <h1 align="center">SocialExport</h1>
 <p align="center">소셜 미디어 데이터를 내보내고 공개 웹 콘텐츠를 Markdown으로 저장하세요.</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
-<p align="center"><a href="#download">다운로드</a> · <a href="#install">설치 가이드</a> · <a href="https://socialmediaexport.liduos.com/en">공식 웹사이트</a></p>
+<p align="center"><a href="#download">다운로드</a> · <a href="GUIDE.ko.md">설치 가이드</a> · <a href="https://socialmediaexport.liduos.com/en">공식 웹사이트</a></p>
+
+## 주요 기능
+
+- 지원 플랫폼의 게시물, 댓글, 작성자 정보, 반응 수치를 CSV로 내보냅니다.
+- 공개 웹페이지와 게시물을 편집 가능한 Markdown으로 저장하고, 다운로드 가능한 이미지를 ZIP에 담습니다.
+- 기기에 저장하거나 연결 설정 후 Feishu/Lark 또는 Notion에 보낼 수 있습니다.
+
+로컬 내보내기는 브라우저에서 실행되며 SocialExport 계정이 필요하지 않습니다.
 
 <a id="download"></a>
 
@@ -14,32 +22,3 @@
 | Microsoft Edge | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-edge.zip) |
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 Extreme, Quark, 360 Secure, Liebao, QQ Browser | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
-
-[이전 테스트 패키지](downloads/)
-
-<a id="install"></a>
-
-## 설치 가이드
-
-1. 브라우저에 맞는 ZIP을 내려받아 압축을 풉니다. 확장 프로그램 관리 페이지에서 개발자 모드를 켜고 `manifest.json`이 들어 있는 폴더를 불러옵니다. 확장 메뉴에서 SocialExport를 고정할 수 있습니다.
-2. Firefox에서는 `about:debugging#/runtime/this-firefox`를 열고 **임시 부가 기능 로드**를 선택한 뒤 `manifest.json`을 지정합니다. 서명되지 않은 패키지는 Firefox를 다시 시작한 후 불러와야 합니다.
-3. 지원되는 소셜 게시물이나 공개 페이지를 열고 SocialExport를 선택합니다. 소셜 데이터는 CSV로, 웹페이지는 Markdown 파일이나 ZIP으로 저장할 수 있습니다. 연결을 설정하면 Feishu/Lark 또는 Notion으로 보낼 수 있습니다.
-
-<img src="assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
-
-| 브라우저 | 확장 관리 위치 |
-| --- | --- |
-| Chrome | `chrome://extensions` |
-| Microsoft Edge | `edge://extensions` |
-| Firefox | `about:debugging#/runtime/this-firefox` |
-| 360 Extreme | 설정 → 확장 프로그램 |
-| Quark | 확장 센터 → 확장 관리 |
-| 360 Secure | 확장 프로그램 → 관리 → 고급 관리(Windows) |
-| Liebao | 옵션 → 내 앱(Windows) |
-| QQ Browser | 확장 프로그램 → 확장 관리 |
-
-Chromium 계열 브라우저의 Manifest V3 지원과 압축 해제 폴더 설치 가능 여부는 버전에 따라 다릅니다. CRX 전용 메뉴에서는 ZIP을 설치할 수 없습니다.
-
-<img src="assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
-
-[설치 가이드 ↗](https://socialmediaexport.liduos.com/en/guide)
