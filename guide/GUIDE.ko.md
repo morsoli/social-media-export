@@ -1,4 +1,4 @@
-[SocialExport](../README.ko.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
+[SocialMediaExport](../README.ko.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
 
 # 설치 가이드
 
@@ -15,7 +15,7 @@
 2. Firefox에서는 `about:debugging#/runtime/this-firefox`를 열고 **임시 부가 기능 로드**를 선택한 뒤 `manifest.json`을 지정합니다. 서명되지 않은 패키지는 Firefox를 다시 시작한 후 불러와야 합니다.
 3. 지원되는 소셜 게시물이나 공개 페이지를 열고 SocialExport를 선택합니다. 소셜 데이터는 CSV로, 웹페이지는 Markdown 파일이나 ZIP으로 저장할 수 있습니다. 연결을 설정하면 Feishu/Lark 또는 Notion으로 보낼 수 있습니다.
 
-<img src="../assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
+<img src="../assets/chrome-install.png" width="760" alt="SocialMediaExport · Chromium">
 
 | 브라우저 | 확장 관리 위치 |
 | --- | --- |
@@ -30,6 +30,6 @@
 
 Chromium 계열 브라우저의 Manifest V3 지원과 압축 해제 폴더 설치 가능 여부는 버전에 따라 다릅니다. CRX 전용 메뉴에서는 ZIP을 설치할 수 없습니다.
 
-<img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
+<img src="../assets/extension-popup.png" width="480" alt="SocialMediaExport · CSV / Markdown">
 
 [설치 가이드 ↗](https://socialmediaexport.liduos.com/en/guide)
