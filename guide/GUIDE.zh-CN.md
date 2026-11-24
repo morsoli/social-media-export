@@ -32,7 +32,7 @@
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[安装指南 ↗](https://socialexport.app/guide)
+[安装指南 ↗](https://socialexport.app/guides/getting-started)
 
 ## 2. 导出通用内容（公开网页与云文档）
 

@@ -1,5 +1,5 @@
 <p align="center"><img src="assets/logo.png" width="112" alt="SocialExport"></p>
-<h1 align="center">SocialExport</h1>
+<h1 align="center">SocialExport – Social Media Exporter</h1>
 <p align="center"><strong>Social Media Data Exporter & Web Clipper</strong><br>Export Social Data. Preserve Web Content.</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
 <p align="center"><a href="#download">Downloads</a> · <a href="guide/GUIDE.md">Installation guide</a> · <a href="https://socialexport.app/en">Official website</a></p>
@@ -55,6 +55,8 @@ The directory lists 20 platforms. Available features, fields, and media depend o
 <a id="download"></a>
 
 ## Downloads
+
+The latest release provides four ZIPs for eight desktop browsers. Chrome and Edge load unpacked extensions, and the five other Chromium browsers share a package where their browser version supports unpacked Manifest V3. Firefox uses an unsigned temporary add-on that must be loaded again after restarting.
 
 | Browser | ZIP |
 | --- | --- |

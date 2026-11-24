@@ -48,6 +48,8 @@ YouTube, Instagram, TikTok, X, Reddit, Bilibili, Xiaohongshu 등에서 지원되
 
 ## 다운로드
 
+최신 버전은 데스크톱 브라우저 8종용 ZIP 4개를 제공합니다. Chromium 계열은 압축 해제된 Manifest V3 확장 프로그램을 지원해야 하며, 서명되지 않은 Firefox 패키지는 재시작 후 다시 불러와야 합니다.
+
 | 브라우저 | ZIP |
 | --- | --- |
 | Chrome | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chrome.zip) |

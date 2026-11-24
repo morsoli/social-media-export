@@ -48,6 +48,8 @@ Utilisable sur les pages prises en charge de YouTube, Instagram, TikTok, X, Redd
 
 ## Téléchargements
 
+La dernière version propose quatre ZIP pour huit navigateurs de bureau. Les navigateurs Chromium doivent accepter le chargement d’extensions Manifest V3 décompressées. Le module Firefox non signé doit être rechargé après chaque redémarrage.
+
 | Navigateur | ZIP |
 | --- | --- |
 | Chrome | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chrome.zip) |

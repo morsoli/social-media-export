@@ -48,6 +48,8 @@ YouTube、Instagram、TikTok、X、Reddit、Bilibili、小紅書などの対応�
 
 ## ダウンロード
 
+最新版には 8 種類のデスクトップブラウザー向けの ZIP が 4 つあります。Chromium 系ブラウザーでは展開済みの Manifest V3 拡張機能に対応するバージョンが必要です。署名されていない Firefox 版は再起動後に再読み込みが必要です。
+
 | ブラウザー | ZIP |
 | --- | --- |
 | Chrome | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chrome.zip) |

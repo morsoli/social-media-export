@@ -32,7 +32,7 @@ On these desktop Chromium browsers, unpacked installation and Manifest V3 suppor
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[Installation guide ↗](https://socialexport.app/en/guide)
+[Installation guide ↗](https://socialexport.app/en/guides/getting-started)
 
 ## 2. Export generic web & document content
 

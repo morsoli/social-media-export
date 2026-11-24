@@ -48,6 +48,8 @@ Unterstützt geeignete Seiten etwa auf YouTube, Instagram, TikTok, X, Reddit, Bi
 
 ## Downloads
 
+Die aktuelle Version bietet vier ZIP-Dateien für acht Desktop-Browser. Chromium-Browser müssen entpackte Manifest-V3-Erweiterungen laden können. Das unsignierte Firefox-Add-on muss nach einem Neustart erneut geladen werden.
+
 | Browser | ZIP |
 | --- | --- |
 | Chrome | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chrome.zip) |

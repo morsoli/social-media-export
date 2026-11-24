@@ -48,6 +48,8 @@ Disponible para páginas compatibles de YouTube, Instagram, TikTok, X, Reddit, B
 
 ## Descargas
 
+La última versión ofrece cuatro ZIP para ocho navegadores de escritorio. Los navegadores Chromium deben admitir extensiones Manifest V3 descomprimidas. El complemento de Firefox sin firmar se debe volver a cargar después de reiniciar.
+
 | Navegador | ZIP |
 | --- | --- |
 | Chrome | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chrome.zip) |

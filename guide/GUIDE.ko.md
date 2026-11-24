@@ -32,4 +32,4 @@ Chromium 계열 브라우저의 Manifest V3 지원과 압축 해제 폴더 설�
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[설치 가이드 ↗](https://socialexport.app/en/guide)
+[설치 가이드 ↗](https://socialexport.app/en/guides/getting-started)

@@ -1,5 +1,5 @@
 <p align="center"><img src="assets/logo.png" width="112" alt="SocialExport"></p>
-<h1 align="center">SocialExport</h1>
+<h1 align="center">SocialExport 社媒导出助手</h1>
 <p align="center"><strong>社媒数据导出与网页剪藏工具</strong><br>导出社媒数据，留存网页内容</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
 <p align="center"><a href="#download">下载</a> · <a href="guide/GUIDE.zh-CN.md">安装指南</a> · <a href="https://socialexport.app">官方网站</a></p>
@@ -55,6 +55,8 @@
 <a id="download"></a>
 
 ## 下载
+
+最新版本提供四个 ZIP，覆盖八种桌面浏览器。Chrome 和 Edge 加载解压目录。其余五种 Chromium 浏览器共用安装包，须支持加载解压的 Manifest V3 扩展。Firefox 为未签名临时安装包，重启后需重新加载。
 
 | 浏览器 | ZIP |
 | --- | --- |
