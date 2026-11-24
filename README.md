@@ -2,11 +2,11 @@
 <h1 align="center">SocialExport</h1>
 <p align="center"><strong>Social Media Data Exporter & Web Clipper</strong><br>Export Social Data. Preserve Web Content.</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
-<p align="center"><a href="#download">Downloads</a> · <a href="guide/GUIDE.md">Installation guide</a> · <a href="https://socialmediaexport.liduos.com/en">Official website</a></p>
+<p align="center"><a href="#download">Downloads</a> · <a href="guide/GUIDE.md">Installation guide</a> · <a href="https://socialexport.app/en">Official website</a></p>
 
 A free, local-first browser extension for social media research and web clipping. Save structured social data for analysis, or keep readable public content as Markdown for notes and archives.
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialmediaexport.liduos.com/)
+[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
 ## Two ways to export
 
@@ -63,4 +63,4 @@ The directory lists 20 platforms. Available features, fields, and media depend o
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 Extreme, Quark, 360 Secure, Liebao and QQ Browser | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
 
-**[Explore SocialExport on the official website](https://socialmediaexport.liduos.com/)**
+**[Explore SocialExport on the official website](https://socialexport.app/)**

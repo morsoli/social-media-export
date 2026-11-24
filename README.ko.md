@@ -2,11 +2,11 @@
 <h1 align="center">SocialExport</h1>
 <p align="center">소셜 미디어 데이터를 내보내고 공개 웹 콘텐츠를 Markdown으로 저장하세요.</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
-<p align="center"><a href="#download">다운로드</a> · <a href="guide/GUIDE.ko.md">설치 가이드</a> · <a href="https://socialmediaexport.liduos.com/en">공식 웹사이트</a></p>
+<p align="center"><a href="#download">다운로드</a> · <a href="guide/GUIDE.ko.md">설치 가이드</a> · <a href="https://socialexport.app/en">공식 웹사이트</a></p>
 
 소셜 미디어 분석과 웹 클리핑을 위한 무료 로컬 우선 브라우저 확장 프로그램입니다.
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialmediaexport.liduos.com/)
+[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
 ## 두 가지 내보내기 방식
 
@@ -55,4 +55,4 @@ YouTube, Instagram, TikTok, X, Reddit, Bilibili, Xiaohongshu 등에서 지원되
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 Extreme, Quark, 360 Secure, Liebao, QQ Browser | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
 
-**[SocialExport 공식 웹사이트](https://socialmediaexport.liduos.com/)**
+**[SocialExport 공식 웹사이트](https://socialexport.app/)**

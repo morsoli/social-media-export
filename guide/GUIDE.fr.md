@@ -32,4 +32,4 @@ Le chargement d’un dossier décompressé et la prise en charge de Manifest V3 
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[Guide d’installation ↗](https://socialmediaexport.liduos.com/en/guide)
+[Guide d’installation ↗](https://socialexport.app/en/guide)

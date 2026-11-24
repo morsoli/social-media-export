@@ -32,7 +32,7 @@
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[安装指南 ↗](https://socialmediaexport.liduos.com/guide)
+[安装指南 ↗](https://socialexport.app/guide)
 
 ## 2. 导出通用内容（公开网页与云文档）
 
@@ -59,4 +59,4 @@
 - **导出到飞书**：在插件「设置」中填入个人飞书自建应用凭证（App ID / App Secret）及可选文件夹或多维表格链接，社媒结构化数据会按平台自动写入飞书多维表格并按 ID 去重，通用网页内容会写入飞书云文档。
 - **导出到 Notion**：在插件「设置」中填入 Notion Internal Integration Token 与已授权的目标页面或数据库链接，社媒数据会自动写入 Notion 数据库，通用网页内容会生成结构化 Notion 页面。
 
-[查看飞书同步配置指南](https://socialmediaexport.liduos.com/blog/feishu-bitable-sync-guide)
+[查看飞书同步配置指南](https://socialexport.app/blog/feishu-bitable-sync-guide)

@@ -32,7 +32,7 @@ On these desktop Chromium browsers, unpacked installation and Manifest V3 suppor
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[Installation guide ↗](https://socialmediaexport.liduos.com/en/guide)
+[Installation guide ↗](https://socialexport.app/en/guide)
 
 ## 2. Export generic web & document content
 
@@ -59,4 +59,4 @@ Cloud export is an intentional browser-to-API transfer, not a prerequisite for l
 - **Export to Feishu**: Configure your own Feishu / Lark app credentials (`App ID` / `App Secret`) and optional folder or Base URL in extension settings to export social data to Feishu Base tables and web content to Feishu Docs.
 - **Export to Notion**: Configure your Notion Internal Integration Token and shared parent page or database URL in extension settings to export social data to Notion Databases and web content to structured Notion Pages.
 
-[Read the Feishu configuration guide](https://socialmediaexport.liduos.com/en/blog/feishu-bitable-sync-guide)
+[Read the Feishu configuration guide](https://socialexport.app/en/blog/feishu-bitable-sync-guide)

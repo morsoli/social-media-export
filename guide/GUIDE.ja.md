@@ -32,4 +32,4 @@ Chromium 系ブラウザーでは、展開済みフォルダーの読み込み�
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[インストールガイド ↗](https://socialmediaexport.liduos.com/en/guide)
+[インストールガイド ↗](https://socialexport.app/en/guide)

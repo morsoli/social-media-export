@@ -2,11 +2,11 @@
 <h1 align="center">SocialExport</h1>
 <p align="center">SNS データをエクスポートし、公開ウェブページを Markdown で保存。</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
-<p align="center"><a href="#download">ダウンロード</a> · <a href="guide/GUIDE.ja.md">インストールガイド</a> · <a href="https://socialmediaexport.liduos.com/en">公式サイト</a></p>
+<p align="center"><a href="#download">ダウンロード</a> · <a href="guide/GUIDE.ja.md">インストールガイド</a> · <a href="https://socialexport.app/en">公式サイト</a></p>
 
 SNS リサーチとウェブクリップに使える、無料のローカルファースト型ブラウザー拡張機能です。
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialmediaexport.liduos.com/)
+[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
 ## 2 つのエクスポート方法
 
@@ -55,4 +55,4 @@ YouTube、Instagram、TikTok、X、Reddit、Bilibili、小紅書などの対応�
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 Extreme、Quark、360 Secure、Liebao、QQ Browser | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
 
-**[SocialExport の公式サイトへ](https://socialmediaexport.liduos.com/)**
+**[SocialExport の公式サイトへ](https://socialexport.app/)**

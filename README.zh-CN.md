@@ -2,11 +2,11 @@
 <h1 align="center">SocialExport</h1>
 <p align="center"><strong>社媒数据导出与网页剪藏工具</strong><br>导出社媒数据，留存网页内容</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
-<p align="center"><a href="#download">下载</a> · <a href="guide/GUIDE.zh-CN.md">安装指南</a> · <a href="https://socialmediaexport.liduos.com">官方网站</a></p>
+<p align="center"><a href="#download">下载</a> · <a href="guide/GUIDE.zh-CN.md">安装指南</a> · <a href="https://socialexport.app">官方网站</a></p>
 
 社媒导出助手是一款免费、本地优先的浏览器扩展，适用于社媒研究和网页剪藏。可把结构化数据交给表格分析，也可把可读取的公开内容整理成 Markdown，留作笔记或资料。
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialmediaexport.liduos.com/)
+[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
 ## 两种导出方式
 
@@ -63,4 +63,4 @@
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 极速、夸克、360 安全、猎豹和 QQ 浏览器 | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
 
-**[打开社媒导出助手官网](https://socialmediaexport.liduos.com/)**
+**[打开社媒导出助手官网](https://socialexport.app/)**

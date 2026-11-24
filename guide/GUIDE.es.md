@@ -32,4 +32,4 @@ La carga de carpetas descomprimidas y la compatibilidad con Manifest V3 dependen
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[Guía de instalación ↗](https://socialmediaexport.liduos.com/en/guide)
+[Guía de instalación ↗](https://socialexport.app/en/guide)

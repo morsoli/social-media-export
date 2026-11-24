@@ -2,11 +2,11 @@
 <h1 align="center">SocialExport</h1>
 <p align="center">Exportiere Social-Media-Daten und speichere öffentliche Webseiten als Markdown.</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
-<p align="center"><a href="#download">Downloads</a> · <a href="guide/GUIDE.de.md">Installationsanleitung</a> · <a href="https://socialmediaexport.liduos.com/en">Offizielle Website</a></p>
+<p align="center"><a href="#download">Downloads</a> · <a href="guide/GUIDE.de.md">Installationsanleitung</a> · <a href="https://socialexport.app/en">Offizielle Website</a></p>
 
 Eine kostenlose Browser-Erweiterung für Social-Media-Recherche und Web-Clipping mit lokaler Verarbeitung.
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialmediaexport.liduos.com/)
+[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
 ## Zwei Exportmöglichkeiten
 
@@ -55,4 +55,4 @@ Unterstützt geeignete Seiten etwa auf YouTube, Instagram, TikTok, X, Reddit, Bi
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 Extreme, Quark, 360 Secure, Liebao und QQ Browser | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
 
-**[SocialExport auf der offiziellen Website entdecken](https://socialmediaexport.liduos.com/)**
+**[SocialExport auf der offiziellen Website entdecken](https://socialexport.app/)**

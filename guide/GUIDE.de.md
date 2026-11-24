@@ -32,4 +32,4 @@ Ob entpackte Ordner geladen werden können und Manifest V3 unterstützt wird, h�
 
 <img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
-[Installationsanleitung ↗](https://socialmediaexport.liduos.com/en/guide)
+[Installationsanleitung ↗](https://socialexport.app/en/guide)
