@@ -1,4 +1,4 @@
-[SocialMediaExport](../README.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
+[SocialExport](../README.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
 
 # Installation guide
 
@@ -11,11 +11,11 @@
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 Extreme, Quark, 360 Secure, Liebao and QQ Browser | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
 
-1. Download the ZIP for your browser and extract it. Open the extension manager, enable developer mode, and load the folder containing `manifest.json`. Pin SocialMediaExport from the extensions menu.
+1. Download the ZIP for your browser and extract it. Open the extension manager, enable developer mode, and load the folder containing `manifest.json`. Pin SocialExport from the extensions menu.
 2. In Firefox, open `about:debugging#/runtime/this-firefox`, choose **Load Temporary Add-on**, and select `manifest.json`. The unsigned package must be reloaded after Firefox restarts.
-3. Open a supported social post or a public page, then select SocialMediaExport. Export available social data as CSV, or save a page as a Markdown file or ZIP. You can also send content to Feishu/Lark or Notion after connecting your workspace.
+3. Open a supported social post or a public page, then select SocialExport. Export available social data as CSV, or save a page as a Markdown file or ZIP. You can also send content to Feishu/Lark or Notion after connecting your workspace.
 
-<img src="../assets/chrome-install.png" width="760" alt="SocialMediaExport · Chromium">
+<img src="../assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
 
 | Browser | Where to open extensions |
 | --- | --- |
@@ -30,14 +30,14 @@
 
 On these desktop Chromium browsers, unpacked installation and Manifest V3 support depend on the browser version. Versions that only accept CRX cannot load the ZIP through that entry.
 
-<img src="../assets/extension-popup.png" width="480" alt="SocialMediaExport · CSV / Markdown">
+<img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
 [Installation guide ↗](https://socialmediaexport.liduos.com/en/guide)
 
 ## 2. Export generic web & document content
 
 1. Open any public web page or open Feishu cloud doc (`docx` / `wiki`) and wait for its content to load.
-2. Select the SocialMediaExport toolbar icon and check the displayed page title and domain.
+2. Select the SocialExport toolbar icon and check the displayed page title and domain.
 3. Select **Export to Markdown ZIP** for the full document plus offline image assets, or **Export to Markdown File** for a standalone `.md` file; once configured, you can also select **Export to Feishu** (Feishu Docs) or **Export to Notion** (Notion Pages).
 
 *Local export does not require a Feishu/Notion integration or a product account.*

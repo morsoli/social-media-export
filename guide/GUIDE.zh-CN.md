@@ -1,4 +1,4 @@
-[SocialMediaExport](../README.zh-CN.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
+[SocialExport](../README.zh-CN.md) · [GitHub Releases](https://github.com/morsoli/social-media-export/releases/latest)
 
 # 安装指南
 
@@ -15,7 +15,7 @@
 2. 在 Firefox 打开 `about:debugging#/runtime/this-firefox`，选择 **临时载入附加组件**，再选中 `manifest.json`。未签名测试包需要在重启后重新加载。
 3. 打开支持的社媒帖子或公开网页，点击社媒导出助手。可把社媒数据导出为 CSV，把网页保存为 Markdown 文件或 ZIP。配置工作区后，也可发送到飞书 / Lark 或 Notion。
 
-<img src="../assets/chrome-install.png" width="760" alt="SocialMediaExport · Chromium">
+<img src="../assets/chrome-install.png" width="760" alt="SocialExport · Chromium">
 
 | 浏览器 | 扩展管理入口 |
 | --- | --- |
@@ -30,7 +30,7 @@
 
 这些桌面 Chromium 浏览器是否支持加载解压目录及 Manifest V3，取决于具体版本。仅接受 CRX 的入口无法加载 ZIP。
 
-<img src="../assets/extension-popup.png" width="480" alt="SocialMediaExport · CSV / Markdown">
+<img src="../assets/extension-popup.png" width="480" alt="SocialExport · CSV / Markdown">
 
 [安装指南 ↗](https://socialmediaexport.liduos.com/guide)
 

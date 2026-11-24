@@ -1,12 +1,12 @@
-<p align="center"><img src="assets/logo.png" width="112" alt="SocialMediaExport"></p>
-<h1 align="center">SocialMediaExport</h1>
-<p align="center">导出社媒数据，把公开网页保存为 Markdown。</p>
+<p align="center"><img src="assets/logo.png" width="112" alt="SocialExport"></p>
+<h1 align="center">SocialExport</h1>
+<p align="center"><strong>社媒数据导出与网页剪藏工具</strong><br>导出社媒数据，留存网页内容</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
 <p align="center"><a href="#download">下载</a> · <a href="guide/GUIDE.zh-CN.md">安装指南</a> · <a href="https://socialmediaexport.liduos.com">官方网站</a></p>
 
 社媒导出助手是一款免费、本地优先的浏览器扩展，适用于社媒研究和网页剪藏。可把结构化数据交给表格分析，也可把可读取的公开内容整理成 Markdown，留作笔记或资料。
 
-[![SocialMediaExport English homepage](assets/website-overview-en.jpg)](https://socialmediaexport.liduos.com/)
+[![SocialExport English homepage](assets/website-overview-en.png)](https://socialmediaexport.liduos.com/)
 
 ## 两种导出方式
 
@@ -35,6 +35,22 @@
 ## 平台与兼容性
 
 覆盖 YouTube、Instagram、TikTok、X、Reddit、B站、小红书等平台的适用页面。不同页面和平台的可用功能有所差异。
+
+| | | | |
+| --- | --- | --- | --- |
+| <img src="assets/platforms/xiaohongshu.webp" width="20" height="20" alt=""> 小红书 | <img src="assets/platforms/douyin.webp" width="20" height="20" alt=""> 抖音 | <img src="assets/platforms/kuaishou.webp" width="20" height="20" alt=""> 快手 | <img src="assets/platforms/bilibili.webp" width="20" height="20" alt=""> 哔哩哔哩 |
+| <img src="assets/platforms/weibo.webp" width="20" height="20" alt=""> 微博 | <img src="assets/platforms/zhihu.webp" width="20" height="20" alt=""> 知乎 | <img src="assets/platforms/douban.webp" width="20" height="20" alt=""> 豆瓣 | <img src="assets/platforms/okjike.webp" width="20" height="20" alt=""> 即刻 |
+| <img src="assets/platforms/xiaoyuzhou.webp" width="20" height="20" alt=""> 小宇宙 | <img src="assets/platforms/x.webp" width="20" height="20" alt=""> X（Twitter） | <img src="assets/platforms/youtube.webp" width="20" height="20" alt=""> YouTube | <img src="assets/platforms/instagram.webp" width="20" height="20" alt=""> Instagram |
+| <img src="assets/platforms/tiktok.webp" width="20" height="20" alt=""> TikTok | <img src="assets/platforms/pinterest.webp" width="20" height="20" alt=""> Pinterest | <img src="assets/platforms/reddit.webp" width="20" height="20" alt=""> Reddit | <img src="assets/platforms/bluesky.webp" width="20" height="20" alt=""> Bluesky |
+| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/weixin-channels.webp" width="20" height="20" alt=""> 微信视频号 |
+
+平台目录列出 20 个平台。可用功能、字段和媒体取决于平台及页面类型。请在拥有相应权限并遵守平台规则、版权和隐私要求的前提下使用 SocialExport。
+
+## 适用场景
+
+- **创作者与社媒运营**：整理作品表现、用户互动和评论反馈。
+- **研究与数据分析**：收集公开帖子、评论和创作者信息，在表格工具中分析。
+- **资料留存与知识管理**：将公开文章、帖子和可获取的媒体保存到本地、飞书或 Notion。
 
 <a id="download"></a>
 

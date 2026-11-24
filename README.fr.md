@@ -1,12 +1,12 @@
-<p align="center"><img src="assets/logo.png" width="112" alt="SocialMediaExport"></p>
-<h1 align="center">SocialMediaExport</h1>
+<p align="center"><img src="assets/logo.png" width="112" alt="SocialExport"></p>
+<h1 align="center">SocialExport</h1>
 <p align="center">Exportez les données des réseaux sociaux et enregistrez les pages publiques en Markdown.</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
 <p align="center"><a href="#download">Téléchargements</a> · <a href="guide/GUIDE.fr.md">Guide d’installation</a> · <a href="https://socialmediaexport.liduos.com/en">Site officiel</a></p>
 
 Une extension de navigateur gratuite qui privilégie le traitement local pour la recherche sur les réseaux sociaux et la collecte de pages web.
 
-[![SocialMediaExport English homepage](assets/website-overview-en.jpg)](https://socialmediaexport.liduos.com/)
+[![SocialExport English homepage](assets/website-overview-en.png)](https://socialmediaexport.liduos.com/)
 
 ## Deux modes d’exportation
 
@@ -30,11 +30,19 @@ Enregistrez les pages publiques et les publications en Markdown modifiable, avec
 
 ## Destinations
 
-Enregistrez localement ou connectez Feishu/Lark pour Base et Docs, ou Notion pour les bases de données et les pages. L’export local s’exécute dans le navigateur et ne nécessite pas de compte SocialMediaExport.
+Enregistrez localement ou connectez Feishu/Lark pour Base et Docs, ou Notion pour les bases de données et les pages. L’export local s’exécute dans le navigateur et ne nécessite pas de compte SocialExport.
 
 ## Plateformes et compatibilité
 
 Utilisable sur les pages prises en charge de YouTube, Instagram, TikTok, X, Reddit, Bilibili et Xiaohongshu, entre autres.
+
+| | | | |
+| --- | --- | --- | --- |
+| <img src="assets/platforms/xiaohongshu.webp" width="20" height="20" alt=""> RED (Xiaohongshu) | <img src="assets/platforms/douyin.webp" width="20" height="20" alt=""> Douyin | <img src="assets/platforms/kuaishou.webp" width="20" height="20" alt=""> Kuaishou | <img src="assets/platforms/bilibili.webp" width="20" height="20" alt=""> Bilibili |
+| <img src="assets/platforms/weibo.webp" width="20" height="20" alt=""> Weibo | <img src="assets/platforms/zhihu.webp" width="20" height="20" alt=""> Zhihu | <img src="assets/platforms/douban.webp" width="20" height="20" alt=""> Douban | <img src="assets/platforms/okjike.webp" width="20" height="20" alt=""> Jike |
+| <img src="assets/platforms/xiaoyuzhou.webp" width="20" height="20" alt=""> Xiaoyuzhou | <img src="assets/platforms/x.webp" width="20" height="20" alt=""> X (Twitter) | <img src="assets/platforms/youtube.webp" width="20" height="20" alt=""> YouTube | <img src="assets/platforms/instagram.webp" width="20" height="20" alt=""> Instagram |
+| <img src="assets/platforms/tiktok.webp" width="20" height="20" alt=""> TikTok | <img src="assets/platforms/pinterest.webp" width="20" height="20" alt=""> Pinterest | <img src="assets/platforms/reddit.webp" width="20" height="20" alt=""> Reddit | <img src="assets/platforms/bluesky.webp" width="20" height="20" alt=""> Bluesky |
+| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/weixin-channels.webp" width="20" height="20" alt=""> WeChat Channels |
 
 <a id="download"></a>
 
@@ -47,4 +55,4 @@ Utilisable sur les pages prises en charge de YouTube, Instagram, TikTok, X, Redd
 | Firefox | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-firefox.zip) |
 | 360 Extreme, Quark, 360 Secure, Liebao et QQ Browser | [ZIP](https://github.com/morsoli/social-media-export/releases/latest/download/social-export-chromium.zip) |
 
-**[Découvrir SocialMediaExport sur le site officiel](https://socialmediaexport.liduos.com/)**
+**[Découvrir SocialExport sur le site officiel](https://socialmediaexport.liduos.com/)**
