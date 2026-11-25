@@ -8,7 +8,7 @@ Eine kostenlose Browser-Erweiterung für Social-Media-Recherche und Web-Clipping
 
 [![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
-## Zwei Exportmöglichkeiten
+## Was sich exportieren lässt
 
 ### Social-Media-Daten
 
@@ -28,13 +28,23 @@ Verfügbare Felder hängen von Plattform und Seitentyp ab. Strukturierte Daten l
 
 Speichere öffentliche Webseiten und Beiträge als bearbeitbares Markdown, auf Wunsch mit verfügbaren Bildern in einer ZIP-Datei. Überschriften, Links und lesbarer Text bleiben im Markdown bearbeitbar. Verfügbare Bilder lassen sich in einer ZIP-Datei bündeln.
 
+Beim Clipping bleiben lesbare Überschriften, Links, Tabellen, Codeblöcke und Formeln aus Seiten und Beiträgen erhalten.
+
+### KI-Unterhaltungen exportieren
+
+Kopiere Markdown oder lade eine Markdown-Datei oder ein ZIP aus einem lesbaren Chat oder Freigabelink herunter. Melde dich bei Bedarf beim ursprünglichen Dienst an.
+
+ChatGPT, Claude, Gemini, Google AI Studio, DeepSeek, Kimi, Doubao, Tencent Yuanbao, Qwen, Zhipu (ChatGLM), Grok, Perplexity.
+
 ## Exportziele
 
-Speichere lokal oder exportiere Inhalte in Feishu/Lark Base und Docs oder in Notion-Datenbanken und -Seiten. Der lokale Export läuft im Browser und erfordert kein SocialExport-Konto.
+Speichere Social-Media-Daten als CSV und Clips oder KI-Unterhaltungen als Markdown oder ZIP. Nach der Einrichtung lassen sie sich in Feishu/Lark Base oder Docs bzw. in Notion-Datenbanken oder -Seiten speichern.
+
+Der URI-Modus öffnet eine Markdown-Notiz in Obsidian. Für Bilder im Tresor richte die Obsidian Local REST API ein und aktiviere die Bildsynchronisierung.
 
 ## Plattformen und Kompatibilität
 
-Unterstützt geeignete Seiten etwa auf YouTube, Instagram, TikTok, X, Reddit, Bilibili und Xiaohongshu.
+Version 0.1.1 deckt die folgenden 20 Plattformen ab. Verfügbare Felder und Medien hängen von der Seite und Plattform ab.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -42,7 +52,11 @@ Unterstützt geeignete Seiten etwa auf YouTube, Instagram, TikTok, X, Reddit, Bi
 | <img src="assets/platforms/weibo.webp" width="20" height="20" alt=""> Weibo | <img src="assets/platforms/zhihu.webp" width="20" height="20" alt=""> Zhihu | <img src="assets/platforms/douban.webp" width="20" height="20" alt=""> Douban | <img src="assets/platforms/okjike.webp" width="20" height="20" alt=""> Jike |
 | <img src="assets/platforms/xiaoyuzhou.webp" width="20" height="20" alt=""> Xiaoyuzhou | <img src="assets/platforms/x.webp" width="20" height="20" alt=""> X (Twitter) | <img src="assets/platforms/youtube.webp" width="20" height="20" alt=""> YouTube | <img src="assets/platforms/instagram.webp" width="20" height="20" alt=""> Instagram |
 | <img src="assets/platforms/tiktok.webp" width="20" height="20" alt=""> TikTok | <img src="assets/platforms/pinterest.webp" width="20" height="20" alt=""> Pinterest | <img src="assets/platforms/reddit.webp" width="20" height="20" alt=""> Reddit | <img src="assets/platforms/bluesky.webp" width="20" height="20" alt=""> Bluesky |
-| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/weixin-channels.webp" width="20" height="20" alt=""> WeChat Channels |
+| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/substack.webp" width="20" height="20" alt=""> Substack |
+
+## Datenschutz und Zugriff
+
+Extraktion und lokaler Export laufen ohne SocialExport-Konto im Browser. Beachte Zugriffsrechte, Plattformregeln, Urheberrecht und Datenschutz.
 
 <a id="download"></a>
 

@@ -8,7 +8,7 @@
 
 [![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
-## 두 가지 내보내기 방식
+## 내보낼 수 있는 콘텐츠
 
 ### 소셜 미디어 데이터
 
@@ -28,13 +28,23 @@
 
 공개 웹페이지와 게시물을 편집 가능한 Markdown으로 저장하고, 다운로드 가능한 이미지를 ZIP에 담습니다. 제목과 링크를 유지한 편집 가능한 Markdown으로 저장하고, 내려받을 수 있는 이미지는 ZIP에 담을 수 있습니다.
 
+웹 문서와 게시물에서 읽을 수 있는 제목, 링크, 표, 코드 블록과 수식을 유지합니다.
+
+### AI 대화 내보내기
+
+읽을 수 있는 대화나 공유 페이지에서 Markdown을 복사하거나 Markdown 파일 또는 ZIP을 내려받을 수 있습니다. 필요한 경우 원래 서비스에 먼저 로그인하세요.
+
+ChatGPT, Claude, Gemini, Google AI Studio, DeepSeek, Kimi, Doubao, Tencent Yuanbao, Qwen, Zhipu (ChatGLM), Grok, Perplexity.
+
 ## 내보내기 대상
 
-기기에 저장하거나 Feishu/Lark의 Base와 Docs, Notion의 데이터베이스와 페이지에 보낼 수 있습니다. 로컬 내보내기는 브라우저에서 실행되며 SocialExport 계정이 필요하지 않습니다.
+소셜 데이터는 CSV, 웹 클립과 AI 대화는 Markdown 또는 ZIP으로 저장합니다. 설정 후 Feishu/Lark의 Base·Docs 또는 Notion 데이터베이스·페이지에 보낼 수 있습니다.
+
+Obsidian URI 모드에서 Markdown 노트를 열 수 있습니다. 이미지를 보관함에 함께 저장하려면 Obsidian Local REST API를 설정하고 이미지 동기화를 켜세요.
 
 ## 지원 플랫폼
 
-YouTube, Instagram, TikTok, X, Reddit, Bilibili, Xiaohongshu 등에서 지원되는 페이지를 사용할 수 있습니다.
+v0.1.1은 다음 20개 소셜 플랫폼을 지원합니다. 항목과 미디어 지원은 플랫폼과 페이지에 따라 달라집니다.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -42,7 +52,11 @@ YouTube, Instagram, TikTok, X, Reddit, Bilibili, Xiaohongshu 등에서 지원되
 | <img src="assets/platforms/weibo.webp" width="20" height="20" alt=""> Weibo | <img src="assets/platforms/zhihu.webp" width="20" height="20" alt=""> Zhihu | <img src="assets/platforms/douban.webp" width="20" height="20" alt=""> Douban | <img src="assets/platforms/okjike.webp" width="20" height="20" alt=""> Jike |
 | <img src="assets/platforms/xiaoyuzhou.webp" width="20" height="20" alt=""> Xiaoyuzhou | <img src="assets/platforms/x.webp" width="20" height="20" alt=""> X (Twitter) | <img src="assets/platforms/youtube.webp" width="20" height="20" alt=""> YouTube | <img src="assets/platforms/instagram.webp" width="20" height="20" alt=""> Instagram |
 | <img src="assets/platforms/tiktok.webp" width="20" height="20" alt=""> TikTok | <img src="assets/platforms/pinterest.webp" width="20" height="20" alt=""> Pinterest | <img src="assets/platforms/reddit.webp" width="20" height="20" alt=""> Reddit | <img src="assets/platforms/bluesky.webp" width="20" height="20" alt=""> Bluesky |
-| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/weixin-channels.webp" width="20" height="20" alt=""> WeChat Channels |
+| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/substack.webp" width="20" height="20" alt=""> Substack |
+
+## 개인정보와 접근 권한
+
+추출과 로컬 내보내기는 브라우저에서 실행되며 SocialExport 계정이 필요하지 않습니다. 원본 서비스의 접근 권한과 이용 규칙, 저작권 및 개인정보를 존중하세요.
 
 <a id="download"></a>
 

@@ -4,11 +4,11 @@
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
 <p align="center"><a href="#download">Downloads</a> · <a href="guide/GUIDE.md">Installation guide</a> · <a href="https://socialexport.app/en">Official website</a></p>
 
-A free, local-first browser extension for social media research and web clipping. Save structured social data for analysis, or keep readable public content as Markdown for notes and archives.
+SocialExport is a free, local-first browser extension for exporting social media data, clipping public webpages, and saving AI conversations. Keep structured records in CSV and readable content in editable Markdown.
 
 [![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
-## Two ways to export
+## What you can export
 
 ### Social media data
 
@@ -26,15 +26,23 @@ Available fields and media vary by platform and page type. Media downloads as fi
 
 ### Public web content
 
-Save public web pages and posts as editable Markdown, with available images in a ZIP. Markdown keeps headings, links and readable text editable. A ZIP can include accessible images alongside the Markdown file.
+Save public webpages and posts as editable Markdown or as a ZIP with available images. Clipping preserves readable headings, links, lists, tables, code blocks, and formulas when the page exposes them. It works with readable web articles, social posts, and supported document pages.
+
+### Export AI conversations
+
+Export a readable conversation as Markdown or a ZIP, or copy the Markdown. Open the conversation or a readable share link on its original service. If access requires sign-in, sign in there first. Only content available to the browser can be exported.
+
+ChatGPT, Claude, Gemini, Google AI Studio, DeepSeek, Kimi, Doubao, Tencent Yuanbao, Qwen, Zhipu (ChatGLM), Grok, Perplexity.
 
 ## Export destinations
 
-Save CSV and Markdown files locally. Connect Feishu/Lark for Base tables or Docs, or Notion for databases or pages. Local export runs in your browser and requires no SocialExport account.
+Download CSV for social data, Markdown or ZIP for clipped content and AI conversations, and the original media where available. Configure Feishu/Lark or Notion to save social data to a Base table or database, and clips or conversations to Docs or pages.
+
+Save clips and AI conversations to an Obsidian vault. URI mode opens a Markdown note in Obsidian. To save supported images into the vault as well, configure the Obsidian Local REST API and enable image syncing.
 
 ## Platforms and compatibility
 
-Works with supported pages on platforms such as YouTube, Instagram, TikTok, X, Reddit, Bilibili and Xiaohongshu. Browser availability and export features vary by page and platform.
+Check the [platform directory](https://socialexport.app/en/platforms) for the 20 social platforms covered in v0.1.1. Features, fields, replies, and media vary by page and platform.
 
 | | | | |
 | --- | --- | --- | --- |
@@ -42,15 +50,17 @@ Works with supported pages on platforms such as YouTube, Instagram, TikTok, X, R
 | <img src="assets/platforms/weibo.webp" width="20" height="20" alt=""> Weibo | <img src="assets/platforms/zhihu.webp" width="20" height="20" alt=""> Zhihu | <img src="assets/platforms/douban.webp" width="20" height="20" alt=""> Douban | <img src="assets/platforms/okjike.webp" width="20" height="20" alt=""> Jike |
 | <img src="assets/platforms/xiaoyuzhou.webp" width="20" height="20" alt=""> Xiaoyuzhou | <img src="assets/platforms/x.webp" width="20" height="20" alt=""> X (Twitter) | <img src="assets/platforms/youtube.webp" width="20" height="20" alt=""> YouTube | <img src="assets/platforms/instagram.webp" width="20" height="20" alt=""> Instagram |
 | <img src="assets/platforms/tiktok.webp" width="20" height="20" alt=""> TikTok | <img src="assets/platforms/pinterest.webp" width="20" height="20" alt=""> Pinterest | <img src="assets/platforms/reddit.webp" width="20" height="20" alt=""> Reddit | <img src="assets/platforms/bluesky.webp" width="20" height="20" alt=""> Bluesky |
-| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/weixin-channels.webp" width="20" height="20" alt=""> WeChat Channels |
-
-The directory lists 20 platforms. Available features, fields, and media depend on the platform and page type. Use SocialExport only with appropriate permissions and respect platform rules, copyright, and privacy.
+| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/substack.webp" width="20" height="20" alt=""> Substack |
 
 ## Use cases
 
 - **Social media managers and creators** — Track content performance and review audience feedback.
 - **Researchers and data analysts** — Collect posts, comments, and creator activity for spreadsheet analysis.
 - **Knowledge management** — Preserve useful articles, posts, and media in local files, Feishu/Lark, or Notion.
+
+## Privacy and access
+
+Extraction and local exports run in the browser without a SocialExport account. Sending content to Feishu/Lark or Notion uses the destination you configure. Respect source-site access requirements, platform rules, copyright, and privacy.
 
 <a id="download"></a>
 

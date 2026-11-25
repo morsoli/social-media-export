@@ -8,7 +8,7 @@ SNS リサーチとウェブクリップに使える、無料のローカルフ�
 
 [![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
 
-## 2 つのエクスポート方法
+## エクスポートできる内容
 
 ### SNS データ
 
@@ -28,13 +28,23 @@ SNS リサーチとウェブクリップに使える、無料のローカルフ�
 
 公開ウェブページと投稿を編集可能な Markdown で保存し、取得できる画像を ZIP にまとめられます。 見出し、リンク、本文を編集可能な Markdown にまとめ、取得できる画像は ZIP に保存できます。
 
+ウェブ記事や投稿から読み取れる見出し、リンク、表、コード、数式などを保持します。
+
+### AI チャットのエクスポート
+
+閲覧できる会話や共有ページから Markdown をコピーし、Markdown ファイルまたは ZIP に保存できます。ログインが必要な場合は元のサービスでログインしてください。
+
+ChatGPT, Claude, Gemini, Google AI Studio, DeepSeek, Kimi, Doubao, Tencent Yuanbao, Qwen, Zhipu (ChatGLM), Grok, Perplexity.
+
 ## 保存先
 
-ローカル保存に加え、Feishu/Lark の Base や Docs、Notion のデータベースやページに出力できます。 ローカルエクスポートはブラウザー内で動作し、SocialExport のアカウントは不要です。
+SNS データは CSV、ウェブクリップと AI 会話は Markdown または ZIP で保存できます。設定後は Feishu/Lark の Base・Docs、Notion のデータベース・ページへ送信できます。
+
+Obsidian の URI モードで Markdown ノートを開けます。画像を保管庫に保存する場合は、Obsidian Local REST API を設定し画像同期を有効にします。
 
 ## 対応プラットフォーム
 
-YouTube、Instagram、TikTok、X、Reddit、Bilibili、小紅書などの対応ページで利用できます。
+v0.1.1 では次の 20 の SNS に対応します。取得できる項目やメディアはサービスとページで異なります。
 
 | | | | |
 | --- | --- | --- | --- |
@@ -42,7 +52,11 @@ YouTube、Instagram、TikTok、X、Reddit、Bilibili、小紅書などの対応�
 | <img src="assets/platforms/weibo.webp" width="20" height="20" alt=""> Weibo | <img src="assets/platforms/zhihu.webp" width="20" height="20" alt=""> Zhihu | <img src="assets/platforms/douban.webp" width="20" height="20" alt=""> Douban | <img src="assets/platforms/okjike.webp" width="20" height="20" alt=""> Jike |
 | <img src="assets/platforms/xiaoyuzhou.webp" width="20" height="20" alt=""> Xiaoyuzhou | <img src="assets/platforms/x.webp" width="20" height="20" alt=""> X (Twitter) | <img src="assets/platforms/youtube.webp" width="20" height="20" alt=""> YouTube | <img src="assets/platforms/instagram.webp" width="20" height="20" alt=""> Instagram |
 | <img src="assets/platforms/tiktok.webp" width="20" height="20" alt=""> TikTok | <img src="assets/platforms/pinterest.webp" width="20" height="20" alt=""> Pinterest | <img src="assets/platforms/reddit.webp" width="20" height="20" alt=""> Reddit | <img src="assets/platforms/bluesky.webp" width="20" height="20" alt=""> Bluesky |
-| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/weixin-channels.webp" width="20" height="20" alt=""> WeChat Channels |
+| <img src="assets/platforms/threads.webp" width="20" height="20" alt=""> Threads | <img src="assets/platforms/facebook.webp" width="20" height="20" alt=""> Facebook | <img src="assets/platforms/linkedin.webp" width="20" height="20" alt=""> LinkedIn | <img src="assets/platforms/substack.webp" width="20" height="20" alt=""> Substack |
+
+## プライバシーとアクセス
+
+抽出とローカル保存はブラウザー内で行われ、SocialExport アカウントは不要です。元のサービスのアクセス権、利用規約、著作権、プライバシーを尊重してください。
 
 <a id="download"></a>
 
