@@ -6,7 +6,7 @@
 
 소셜 미디어 분석과 웹 클리핑을 위한 무료 로컬 우선 브라우저 확장 프로그램입니다.
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
+[![SocialExport output examples: CSV and Markdown](assets/export-examples-en.webp)](https://socialexport.app/)
 
 ## 내보낼 수 있는 콘텐츠
 
@@ -34,7 +34,11 @@
 
 읽을 수 있는 대화나 공유 페이지에서 Markdown을 복사하거나 Markdown 파일 또는 ZIP을 내려받을 수 있습니다. 필요한 경우 원래 서비스에 먼저 로그인하세요.
 
-ChatGPT, Claude, Gemini, Google AI Studio, DeepSeek, Kimi, Doubao, Tencent Yuanbao, Qwen, Zhipu (ChatGLM), Grok, Perplexity.
+| | | | |
+| --- | --- | --- | --- |
+| <img src="assets/ai-clients/chatgpt.webp" width="22" height="22" alt=""> ChatGPT | <img src="assets/ai-clients/claude.webp" width="22" height="22" alt=""> Claude | <img src="assets/ai-clients/gemini.webp" width="22" height="22" alt=""> Gemini | <img src="assets/ai-clients/aistudio.webp" width="22" height="22" alt=""> Google AI Studio |
+| <img src="assets/ai-clients/deepseek.webp" width="22" height="22" alt=""> DeepSeek | <img src="assets/ai-clients/kimi.webp" width="22" height="22" alt=""> Kimi | <img src="assets/ai-clients/doubao.webp" width="22" height="22" alt=""> Doubao | <img src="assets/ai-clients/yuanbao.webp" width="22" height="22" alt=""> Tencent Yuanbao |
+| <img src="assets/ai-clients/qwen.webp" width="22" height="22" alt=""> Qwen | <img src="assets/ai-clients/zhipu.webp" width="22" height="22" alt=""> Zhipu (ChatGLM) | <img src="assets/ai-clients/grok.webp" width="22" height="22" alt=""> Grok | <img src="assets/ai-clients/perplexity.webp" width="22" height="22" alt=""> Perplexity |
 
 ## 내보내기 대상
 

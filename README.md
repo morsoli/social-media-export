@@ -1,26 +1,30 @@
 <p align="center"><img src="assets/logo.png" width="112" alt="SocialExport"></p>
 <h1 align="center">SocialExport – Social Media Exporter</h1>
-<p align="center"><strong>Social Media Data Exporter & Web Clipper</strong><br>Export Social Data. Preserve Web Content.</p>
+<p align="center">Export Social Data. Preserve Web Content.</p>
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a></p>
 <p align="center"><a href="#download">Downloads</a> · <a href="guide/GUIDE.md">Installation guide</a> · <a href="https://socialexport.app/en">Official website</a></p>
 
-SocialExport is a free, local-first browser extension for exporting social media data, clipping public webpages, and saving AI conversations. Keep structured records in CSV and readable content in editable Markdown.
+Analyze posts and comments in a spreadsheet, save public webpages as Markdown, or keep an AI conversation for later. SocialExport extracts the content in your browser and lets you choose where the result goes.
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
+[![SocialExport output examples: CSV and Markdown](assets/export-examples-en.webp)](https://socialexport.app/)
 
 ## What you can export
 
 ### Social media data
 
-Export posts, comments, creator details and engagement metrics from supported platforms as CSV. Put exported data in a spreadsheet for research and reporting. The fields available depend on the platform and the type of page.
+Export posts, comments, and creator records as Excel-compatible UTF-8 CSV, or send them to Feishu/Lark Base or a Notion database after configuration.
 
 #### Five collection dimensions
 
-1. **Post media** — Save available videos, audio, original images and covers from a supported post.
-2. **Post data** — Export the post ID, source URL, title, text, author, publication date and available engagement counts such as views, likes, saves, comments and shares.
-3. **Post comments** — Export comment text, author, time and available engagement, with nested replies where the platform exposes them.
-4. **Creator profile** — Capture the profile URL and handle, bio, verification details and available follower, following and post counts.
-5. **Creator posts** — Collect an inventory from a creator page or supported collection, including post URLs, titles, dates and available metrics.
+1. **Post media**. Available video (MP4) and audio (MP3) files, original images, covers, Live Photo clips and background music. Image collections can be downloaded as a ZIP.
+
+2. **Post data**. Post ID, platform, type, title, body, available OCR text, link, author name, ID, handle, profile, bio and follower count, collection, hashtags, and publish, update and capture dates. Metrics can include plays, likes, saves, comments and shares. Media columns can include cover, image, Live Photo, video and music URLs, plus duration and IP region where available.
+
+3. **Post comments**. Comment ID and text, author name, ID, handle and profile link, comment and capture times, likes, reply count, IP region and attached image URLs, and source post ID, title and URL. Available replies include their level, parent comment ID and reply target.
+
+4. **Creator profiles**. Creator ID, display name, handle, profile link, bio, verification, avatar link, gender, IP region and capture time, plus available follower, following, post and total interaction counts.
+
+5. **Creator posts**. Post rows from supported profiles or collections, using the post-data fields above. Compare titles, URLs, publishing dates, collections, engagement and available media across a creator’s work.
 
 Available fields and media vary by platform and page type. Media downloads as files; structured data can be exported as CSV.
 
@@ -32,7 +36,11 @@ Save public webpages and posts as editable Markdown or as a ZIP with available i
 
 Export a readable conversation as Markdown or a ZIP, or copy the Markdown. Open the conversation or a readable share link on its original service. If access requires sign-in, sign in there first. Only content available to the browser can be exported.
 
-ChatGPT, Claude, Gemini, Google AI Studio, DeepSeek, Kimi, Doubao, Tencent Yuanbao, Qwen, Zhipu (ChatGLM), Grok, Perplexity.
+| | | | |
+| --- | --- | --- | --- |
+| <img src="assets/ai-clients/chatgpt.webp" width="22" height="22" alt=""> ChatGPT | <img src="assets/ai-clients/claude.webp" width="22" height="22" alt=""> Claude | <img src="assets/ai-clients/gemini.webp" width="22" height="22" alt=""> Gemini | <img src="assets/ai-clients/aistudio.webp" width="22" height="22" alt=""> Google AI Studio |
+| <img src="assets/ai-clients/deepseek.webp" width="22" height="22" alt=""> DeepSeek | <img src="assets/ai-clients/kimi.webp" width="22" height="22" alt=""> Kimi | <img src="assets/ai-clients/doubao.webp" width="22" height="22" alt=""> Doubao | <img src="assets/ai-clients/yuanbao.webp" width="22" height="22" alt=""> Tencent Yuanbao |
+| <img src="assets/ai-clients/qwen.webp" width="22" height="22" alt=""> Qwen | <img src="assets/ai-clients/zhipu.webp" width="22" height="22" alt=""> Zhipu (ChatGLM) | <img src="assets/ai-clients/grok.webp" width="22" height="22" alt=""> Grok | <img src="assets/ai-clients/perplexity.webp" width="22" height="22" alt=""> Perplexity |
 
 ## Export destinations
 

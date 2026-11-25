@@ -6,7 +6,7 @@
 
 Une extension de navigateur gratuite qui privilégie le traitement local pour la recherche sur les réseaux sociaux et la collecte de pages web.
 
-[![SocialExport English homepage](assets/website-overview-en.png)](https://socialexport.app/)
+[![SocialExport output examples: CSV and Markdown](assets/export-examples-en.webp)](https://socialexport.app/)
 
 ## Contenus exportables
 
@@ -34,7 +34,11 @@ La capture préserve les titres, liens, tableaux, blocs de code et formules lisi
 
 Copiez le Markdown ou téléchargez un fichier Markdown ou ZIP depuis une conversation ou un lien de partage lisible. Connectez-vous au service d’origine si nécessaire.
 
-ChatGPT, Claude, Gemini, Google AI Studio, DeepSeek, Kimi, Doubao, Tencent Yuanbao, Qwen, Zhipu (ChatGLM), Grok, Perplexity.
+| | | | |
+| --- | --- | --- | --- |
+| <img src="assets/ai-clients/chatgpt.webp" width="22" height="22" alt=""> ChatGPT | <img src="assets/ai-clients/claude.webp" width="22" height="22" alt=""> Claude | <img src="assets/ai-clients/gemini.webp" width="22" height="22" alt=""> Gemini | <img src="assets/ai-clients/aistudio.webp" width="22" height="22" alt=""> Google AI Studio |
+| <img src="assets/ai-clients/deepseek.webp" width="22" height="22" alt=""> DeepSeek | <img src="assets/ai-clients/kimi.webp" width="22" height="22" alt=""> Kimi | <img src="assets/ai-clients/doubao.webp" width="22" height="22" alt=""> Doubao | <img src="assets/ai-clients/yuanbao.webp" width="22" height="22" alt=""> Tencent Yuanbao |
+| <img src="assets/ai-clients/qwen.webp" width="22" height="22" alt=""> Qwen | <img src="assets/ai-clients/zhipu.webp" width="22" height="22" alt=""> Zhipu (ChatGLM) | <img src="assets/ai-clients/grok.webp" width="22" height="22" alt=""> Grok | <img src="assets/ai-clients/perplexity.webp" width="22" height="22" alt=""> Perplexity |
 
 ## Destinations
 
